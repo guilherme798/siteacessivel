@@ -45,7 +45,7 @@ section {
 .img-inicio {
     position: absolute;
     right: 0;
-    top: 25rem;
+    top: 251rem;
     width: 45rem;
     height: auto;
 }
@@ -132,7 +132,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #110dfa;
     border: none;
     font-weight: bold;
 }
